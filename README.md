@@ -2,7 +2,8 @@
 
 ###
 
-<p align="center">I am a Full Stack developer with a focus on backend and frontend development in Java. I understand Spring Boot, PostgreSQL, MySQL, Java, Python, Html, css, Boosttrap.<br><br>🌍 I'm based in Junín, Buenos Aires, Argentina.<br>🖥️ See my portfolio at My Portfolio<br>✉️ You can contact me at martinezfrancisco934@gmail.com<br>🧠 I'm learning Angular, Typescript, Node.js.</p>
+<p align="center">I am a Full Stack developer with a focus on backend and frontend development in Java. I understand Spring Boot, PostgreSQL, MySQL, Java, Python, Html, css, Boosttrap.<br><br>🌍 I'm based in Junín, Buenos Aires, Argentina.<br>🖥️ See my portfolio at   <a href="[https://www.linkedin.com/in/luis-francisco-martinez-a6ba57250/](https://francisco9403.github.io/FranPortfolio.github.io/" target="_blank">My Portfolio</a>
+<br>✉️ You can contact me at martinezfrancisco934@gmail.com<br>🧠 I'm learning Angular, Typescript, Node.js.</p>
 
 ###
 
